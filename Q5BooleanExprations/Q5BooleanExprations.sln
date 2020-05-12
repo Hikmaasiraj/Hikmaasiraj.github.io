@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5BooleanExprations", "Q5BooleanExprations.csproj", "{0A0D599D-3158-433F-91B2-E3AC6DB002C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0D599D-3158-433F-91B2-E3AC6DB002C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0D599D-3158-433F-91B2-E3AC6DB002C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0D599D-3158-433F-91B2-E3AC6DB002C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0D599D-3158-433F-91B2-E3AC6DB002C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE71F157-D44E-47DC-83D6-46CB5CA3C924}
+	EndGlobalSection
+EndGlobal

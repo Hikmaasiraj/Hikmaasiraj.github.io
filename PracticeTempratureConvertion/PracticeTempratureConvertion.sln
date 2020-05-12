@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTempratureConvertion", "PracticeTempratureConvertion.csproj", "{306BCBD8-0913-4A90-8887-AE94617035AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306BCBD8-0913-4A90-8887-AE94617035AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306BCBD8-0913-4A90-8887-AE94617035AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306BCBD8-0913-4A90-8887-AE94617035AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306BCBD8-0913-4A90-8887-AE94617035AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68929B49-22E3-4968-97EC-A6CBD47141D6}
+	EndGlobalSection
+EndGlobal

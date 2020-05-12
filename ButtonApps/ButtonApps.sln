@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonApps", "ButtonApps\ButtonApps.csproj", "{577FA6B2-C650-4B05-B128-30F44185F529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577FA6B2-C650-4B05-B128-30F44185F529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577FA6B2-C650-4B05-B128-30F44185F529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577FA6B2-C650-4B05-B128-30F44185F529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577FA6B2-C650-4B05-B128-30F44185F529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBC8439C-DD0B-4247-9882-2B77E093FA65}
+	EndGlobalSection
+EndGlobal
